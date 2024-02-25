@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c866a1d-3589-4ba5-91d8-c9448cb2d68a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Data structures/LAB 3/BINARY SEARCH TREE version 2 with delete.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Data structures/LAB 3/BINARY SEARCH TREE version 2 with delete.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data structures/LAB 3/gmon.out" beforeDir="false" afterPath="$PROJECT_DIR$/../Data structures/LAB 3/gmon.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data structures/LAB 4/AVL_tree.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Data structures/LAB 4/AVL_tree.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data structures/LAB 4/gmon.out" beforeDir="false" afterPath="$PROJECT_DIR$/../Data structures/LAB 4/gmon.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data structures/gmon.out" beforeDir="false" afterPath="$PROJECT_DIR$/../Data structures/gmon.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_and_eye_detection/FaceAndEyeDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_and_eye_detection/FaceAndEyeDetection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_ JAVA _ Homeworks/Collections/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_ JAVA _ Homeworks/Collections/main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ZtkPZGciEqO18sVIKVPk1w8G7b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c866a1d-3589-4ba5-91d8-c9448cb2d68a" name="Changes" comment="" />
+      <created>1703248740429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703248740429</updated>
+    </task>
+    <servers />
+  </component>
+</project>
