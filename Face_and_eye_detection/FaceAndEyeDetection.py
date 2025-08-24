@@ -23,6 +23,7 @@ while True:
             cv2.rectangle(roi_color, (sx, sy), (sx + sw, sy + sh), (200, 150, 47), 2)
 
 
+
             cv2.putText(frame, ':)', (x-150, y - 10), font, 0.9, (0, 0, 255), 2, cv2.LINE_AA)
 
             
